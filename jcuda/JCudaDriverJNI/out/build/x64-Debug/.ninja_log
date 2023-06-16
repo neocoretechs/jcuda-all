@@ -1,0 +1,10 @@
+# ninja log v5
+3	8	0	clean	8c45b54705a541e8
+9	189	7084739105411603	bin/CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.obj	9738f4128429c1a6
+15	204	7084739105486669	bin/CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.obj	ca33f06336d0472b
+6	206	7084739105486669	bin/CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.obj	9f46c318c292af6b
+12	207	7084739105486669	bin/CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.obj	866e4f6da16fd49c
+207	235	7084739105803153	lib/JCudaCommonJNI.lib	520f0392bf44862b
+3	550	7084739108970113	CMakeFiles/JCudaDriver.dir/src/JCudaDriver.cpp.obj	61ba663dab7b8299
+567	949	7084739112754031	C:/jcuda/jcuda/nativeLibraries/windows/x86_64/lib/JCudaDriver-11.8.0-windows-x86_64.dll	a8af9758d0c992cd
+567	949	7084739112754031	lib/JCudaDriver-11.8.0-windows-x86_64.lib	a8af9758d0c992cd

@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/jcuda/jcuda-common/JCudaCommonJNI/CMakeLists.txt
+  JNIUtils.cpp
+  Logger.cpp
+  PointerUtils.cpp
+  CallbackUtils.cpp
+  Generating Code...
+  JCudaCommonJNI.vcxproj -> C:\jcuda\jcudnn\JCudnnJNI\lib\JCudaCommonJNI.lib

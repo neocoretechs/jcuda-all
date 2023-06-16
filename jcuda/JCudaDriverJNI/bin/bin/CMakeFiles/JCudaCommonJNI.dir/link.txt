@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libJCudaCommonJNI.a  CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.o CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.o CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.o CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.o
+/usr/bin/ranlib ../../../../lib/libJCudaCommonJNI.a

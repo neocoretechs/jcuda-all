@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/jcuda/jcudnn/JCudnnJNI/CMakeLists.txt
+  JCudnn.cpp
+     Creating library C:/jcuda/jcudnn/JCudnnJNI/lib/JCudnn-11.8.0-windows-x86_64.lib and object C:/jcuda/jcudnn/JCudnnJNI/lib/JCudnn-11.8.0-windows-x86_64.exp
+  JCudnn.vcxproj -> C:\jcuda\jcudnn\nativeLibraries\windows\x86_64\lib\JCudnn-11.8.0-windows-x86_64.dll

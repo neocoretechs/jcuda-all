@@ -1,0 +1,10 @@
+# ninja log v5
+3	8	0	clean	8c45b54705a541e8
+12	203	7084731129004860	bin/CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.obj	9738f4128429c1a6
+18	215	7084731129004860	bin/CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.obj	ca33f06336d0472b
+6	415	7084731131033443	CMakeFiles/JCublas2.dir/src/JCublas2.cpp.obj	1909270eff8b4bc3
+9	217	7084731129159938	bin/CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.obj	9f46c318c292af6b
+15	219	7084731129159938	bin/CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.obj	866e4f6da16fd49c
+219	253	7084731129471379	lib/JCudaCommonJNI.lib	520f0392bf44862b
+415	817	7084731134786496	C:/jcuda/jcublas/nativeLibraries/windows/x86_64/lib/JCublas2-11.8.0-windows-x86_64.dll	e211c377669b7d09
+415	817	7084731134786496	lib/JCublas2-11.8.0-windows-x86_64.lib	e211c377669b7d09

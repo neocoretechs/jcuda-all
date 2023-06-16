@@ -1,0 +1,6 @@
+C:/jcuda/jcudnn/JCudnnJNI/out/build/x64-Debug/CMakeFiles/JCudnn.dir
+C:/jcuda/jcudnn/JCudnnJNI/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/jcuda/jcudnn/JCudnnJNI/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/jcuda/jcudnn/JCudnnJNI/out/build/x64-Debug/bin/CMakeFiles/JCudaCommonJNI.dir
+C:/jcuda/jcudnn/JCudnnJNI/out/build/x64-Debug/bin/CMakeFiles/edit_cache.dir
+C:/jcuda/jcudnn/JCudnnJNI/out/build/x64-Debug/bin/CMakeFiles/rebuild_cache.dir

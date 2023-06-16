@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "jcuda\\JCudaDriverJNI\\out\\build\\x64-Debug",
+      "jcuda\\JCudaDriverJNI\\out\\install\\x64-Debug"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libJCudnn-11.8.0-linux-aarch64.so -o /media/jg/tensordisk/jcuda/jcudnn/nativeLibraries/linux/aarch64/lib/libJCudnn-11.8.0-linux-aarch64.so CMakeFiles/JCudnn.dir/src/JCudnn.cpp.o  /usr/local/cuda/lib64/libcudart_static.a -lpthread -lrt -ldl -lcudnn ../../../lib/libJCudaCommonJNI.a 

@@ -1,0 +1,19 @@
+# ninja log v5
+2	8	0	clean	8c45b54705a541e8
+12	77	7084950527432324	bin/CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.obj	9738f4128429c1a6
+18	200	7084950528660235	bin/CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.obj	ca33f06336d0472b
+15	203	7084950528690234	bin/CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.obj	866e4f6da16fd49c
+9	205	7084950528710225	bin/CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.obj	9f46c318c292af6b
+205	231	7084950528950315	lib/JCudaCommonJNI.lib	520f0392bf44862b
+6	458	7084950531232789	CMakeFiles/JCusparse.dir/src/JCusparse.cpp.obj	b90dc7e6a860bedf
+458	905	7084950535480451	C:/jcuda/jcusparse/nativeLibraries/windows/x86_64/lib/JCusparse-11.8.0-windows-x86_64.dll	90ba5e807044f60c
+458	905	7084950535480451	lib/JCusparse-11.8.0-windows-x86_64.lib	90ba5e807044f60c
+10	18	0	clean	8c45b54705a541e8
+13	206	7084952859824686	bin/CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.obj	9738f4128429c1a6
+20	209	7084952859864700	bin/CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.obj	ca33f06336d0472b
+16	212	7084952859899788	bin/CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.obj	866e4f6da16fd49c
+10	215	7084952859929870	bin/CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.obj	9f46c318c292af6b
+215	243	7084952860199930	lib/JCudaCommonJNI.lib	520f0392bf44862b
+7	480	7084952862561166	CMakeFiles/JCusparse.dir/src/JCusparse.cpp.obj	b90dc7e6a860bedf
+480	688	7084952864276101	C:/jcuda/jcusparse/nativeLibraries/windows/x86_64/lib/JCusparse-11.8.0-windows-x86_64.dll	90ba5e807044f60c
+480	688	7084952864276101	lib/JCusparse-11.8.0-windows-x86_64.lib	90ba5e807044f60c

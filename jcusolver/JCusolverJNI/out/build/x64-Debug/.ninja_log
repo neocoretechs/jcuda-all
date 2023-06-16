@@ -1,0 +1,14 @@
+# ninja log v5
+2	7	0	clean	8c45b54705a541e8
+21	93	7084950029698195	bin/CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.obj	9738f4128429c1a6
+27	215	7084950030908967	bin/CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.obj	ca33f06336d0472b
+19	225	7084950031019047	bin/CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.obj	9f46c318c292af6b
+25	226	7084950031029052	bin/CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.obj	866e4f6da16fd49c
+226	254	7084950031294173	lib/JCudaCommonJNI.lib	520f0392bf44862b
+3	345	7084950032219769	CMakeFiles/JCusolver.dir/src/JCusolver.cpp.obj	8a5e0ebb0b85788d
+16	348	7084950032249754	CMakeFiles/JCusolver.dir/src/JCusolverMg.cpp.obj	2868f80e3b10b273
+10	351	7084950032269815	CMakeFiles/JCusolver.dir/src/JCusolverRf.cpp.obj	25870585b1069aae
+13	374	7084950032502443	CMakeFiles/JCusolver.dir/src/JCusolverSp.cpp.obj	bd706c505108d482
+7	452	7084950033270000	CMakeFiles/JCusolver.dir/src/JCusolverDn.cpp.obj	fce40e3366413891
+452	883	7084950037382812	C:/jcuda/jcusolver/nativeLibraries/windows/x86_64/lib/JCusolver-11.8.0-windows-x86_64.dll	447cabc36d040ef1
+452	883	7084950037382812	lib/JCusolver-11.8.0-windows-x86_64.lib	447cabc36d040ef1

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libJCudaDriver-11.8.0-linux-aarch64.so -o ../../nativeLibraries/linux/aarch64/lib/libJCudaDriver-11.8.0-linux-aarch64.so CMakeFiles/JCudaDriver.dir/src/JCudaDriver.cpp.o  /usr/local/cuda/lib64/libcudart_static.a -lpthread -lrt -ldl ../../../lib/libJCudaCommonJNI.a -lcuda 

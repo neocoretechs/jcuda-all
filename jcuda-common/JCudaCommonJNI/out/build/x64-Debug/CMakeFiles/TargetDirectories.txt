@@ -1,0 +1,3 @@
+C:/jcuda/jcuda-common/JCudaCommonJNI/out/build/x64-Debug/CMakeFiles/JCudaCommonJNI.dir
+C:/jcuda/jcuda-common/JCudaCommonJNI/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/jcuda/jcuda-common/JCudaCommonJNI/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

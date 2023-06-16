@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libJCudaRuntime-11.8.0-linux-aarch64.so -o ../../nativeLibraries/linux/aarch64/lib/libJCudaRuntime-11.8.0-linux-aarch64.so CMakeFiles/JCudaRuntime.dir/src/JCudaRuntime.cpp.o  /usr/local/cuda/lib64/libcudart_static.a -lpthread -lrt -ldl ../../../lib/libJCudaCommonJNI.a 

@@ -1,0 +1,5 @@
+C:/jcuda/jcudnn/JCudnnJNI/CMakeFiles/JCudnn.dir
+C:/jcuda/jcudnn/JCudnnJNI/CMakeFiles/ALL_BUILD.dir
+C:/jcuda/jcudnn/JCudnnJNI/CMakeFiles/ZERO_CHECK.dir
+C:/jcuda/jcudnn/JCudnnJNI/bin/CMakeFiles/JCudaCommonJNI.dir
+C:/jcuda/jcudnn/JCudnnJNI/bin/CMakeFiles/ALL_BUILD.dir

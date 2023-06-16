@@ -1,0 +1,4 @@
+C:\jcuda\jcuda-common\JCudaCommonJNI\src\JNIUtils.cpp;C:\jcuda\jcudnn\JCudnnJNI\bin\JCudaCommonJNI.dir\Release\JNIUtils.obj
+C:\jcuda\jcuda-common\JCudaCommonJNI\src\Logger.cpp;C:\jcuda\jcudnn\JCudnnJNI\bin\JCudaCommonJNI.dir\Release\Logger.obj
+C:\jcuda\jcuda-common\JCudaCommonJNI\src\PointerUtils.cpp;C:\jcuda\jcudnn\JCudnnJNI\bin\JCudaCommonJNI.dir\Release\PointerUtils.obj
+C:\jcuda\jcuda-common\JCudaCommonJNI\src\CallbackUtils.cpp;C:\jcuda\jcudnn\JCudnnJNI\bin\JCudaCommonJNI.dir\Release\CallbackUtils.obj

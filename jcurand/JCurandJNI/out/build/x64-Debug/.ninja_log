@@ -1,0 +1,19 @@
+# ninja log v5
+3	8	0	clean	8c45b54705a541e8
+303	615	7084947422309259	C:/jcuda/jcurand/nativeLibraries/windows/x86_64/lib/JCurand-11.8.0-windows-x86_64.dll	b058647ab1d20126
+12	75	7084947417111107	bin/CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.obj	9738f4128429c1a6
+18	198	7084947418326685	bin/CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.obj	ca33f06336d0472b
+6	303	7084947419377356	CMakeFiles/JCurand.dir/src/JCurand.cpp.obj	3503bcdcf3faa86d
+9	201	7084947418361799	bin/CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.obj	9f46c318c292af6b
+15	202	7084947418371794	bin/CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.obj	866e4f6da16fd49c
+202	228	7084947418621872	lib/JCudaCommonJNI.lib	520f0392bf44862b
+303	615	7084947422309259	lib/JCurand-11.8.0-windows-x86_64.lib	b058647ab1d20126
+5	11	0	clean	8c45b54705a541e8
+11	194	7084948579397317	bin/CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.obj	9738f4128429c1a6
+16	199	7084948579437312	bin/CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.obj	ca33f06336d0472b
+13	199	7084948579437312	bin/CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.obj	866e4f6da16fd49c
+8	202	7084948579477366	bin/CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.obj	9f46c318c292af6b
+202	230	7084948579737380	lib/JCudaCommonJNI.lib	520f0392bf44862b
+5	302	7084948580467667	CMakeFiles/JCurand.dir/src/JCurand.cpp.obj	3503bcdcf3faa86d
+302	470	7084948581838607	C:/jcuda/jcurand/nativeLibraries/windows/x86_64/lib/JCurand-11.8.0-windows-x86_64.dll	b058647ab1d20126
+302	470	7084948581838607	lib/JCurand-11.8.0-windows-x86_64.lib	b058647ab1d20126

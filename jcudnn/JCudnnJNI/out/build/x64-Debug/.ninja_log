@@ -1,0 +1,15 @@
+# ninja log v5
+8	15	0	clean	8c45b54705a541e8
+11	188	7084896286910091	bin/CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.obj	9738f4128429c1a6
+17	195	7084896286910091	bin/CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.obj	ca33f06336d0472b
+9	199	7084896287086544	bin/CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.obj	9f46c318c292af6b
+14	201	7084896287086544	bin/CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.obj	866e4f6da16fd49c
+6	374	7084896288805186	CMakeFiles/JCudnn.dir/src/JCudnn.cpp.obj	30197f59af9b66a8
+201	228	7084896287383007	lib/JCudaCommonJNI.lib	520f0392bf44862b
+8	14	0	clean	8c45b54705a541e8
+11	186	7084896766463058	bin/CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.obj	9738f4128429c1a6
+16	194	7084896766463058	bin/CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.obj	ca33f06336d0472b
+14	199	7084896766619451	bin/CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.obj	866e4f6da16fd49c
+8	201	7084896766619451	bin/CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.obj	9f46c318c292af6b
+201	229	7084896766930908	lib/JCudaCommonJNI.lib	520f0392bf44862b
+5	374	7084896768336812	CMakeFiles/JCudnn.dir/src/JCudnn.cpp.obj	30197f59af9b66a8

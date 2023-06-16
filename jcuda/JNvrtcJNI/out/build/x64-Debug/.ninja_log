@@ -1,0 +1,10 @@
+# ninja log v5
+2	8	0	clean	8c45b54705a541e8
+12	83	7084741620452100	bin/CMakeFiles/JCudaCommonJNI.dir/src/Logger.cpp.obj	9738f4128429c1a6
+18	201	7084741621658050	bin/CMakeFiles/JCudaCommonJNI.dir/src/CallbackUtils.cpp.obj	ca33f06336d0472b
+15	206	7084741621718159	bin/CMakeFiles/JCudaCommonJNI.dir/src/PointerUtils.cpp.obj	866e4f6da16fd49c
+9	207	7084741621718159	bin/CMakeFiles/JCudaCommonJNI.dir/src/JNIUtils.cpp.obj	9f46c318c292af6b
+207	233	7084741622034658	lib/JCudaCommonJNI.lib	520f0392bf44862b
+6	441	7084741624091136	CMakeFiles/JNvrtc.dir/src/JNvrtc.cpp.obj	ea1b46ae7aba888
+441	780	7084741627282160	C:/jcuda/jcuda/nativeLibraries/windows/x86_64/lib/JNvrtc-11.8.0-windows-x86_64.dll	995e56189189dab6
+441	780	7084741627282160	lib/JNvrtc-11.8.0-windows-x86_64.lib	995e56189189dab6

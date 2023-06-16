@@ -1,0 +1,10 @@
+^C:\JCUDA\JCUDNN\JCUDNNJNI\CMAKEFILES\E6ED81EB7A6CF3872C37FF47799D0E83\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/jcuda/jcudnn/JCudnnJNI -BC:/jcuda/jcudnn/JCudnnJNI --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/jcuda/jcudnn/JCudnnJNI/JCudnn.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
